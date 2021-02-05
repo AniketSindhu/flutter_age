@@ -1,8 +1,7 @@
 name: flutter_age
-description: A new Flutter package project.
+description: Flutter pacakge to calculate age in years, months and days.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/AniketSindhu/flutter_age
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
